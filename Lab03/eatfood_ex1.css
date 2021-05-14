@@ -1,0 +1,35 @@
+.content{
+    border-style:solid;
+    border-color: green;
+    border-width: 4px;
+}
+header{
+    border-style:solid;
+    border-color:red;
+    border-width:4px;
+}
+header h2{
+    border-style:solid;
+    border-color:orange;
+    border-width:4px;
+}
+.text{
+    border-style:solid;
+    border-color:blue;
+    border-width:4px;
+}
+p{
+    border-style:solid;
+    border-color:black;
+    border-width:2px;
+}
+footer{
+    border-style:solid;
+    border-color:yellow;
+    border-width:4px;
+}
+span{
+    border-style:solid;
+    border-color:purple;
+    border-width:4px;
+}
